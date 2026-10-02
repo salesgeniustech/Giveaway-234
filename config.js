@@ -37,7 +37,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/6nea9d7gtnrmt0d0z4dvtc6hb4.jpg",
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-Gemini_Generated_Image_d2bagqd2bagqd2ba.jpeg",
         "alt": "Candlelit table for two at Spinasse in Capitol Hill"
       },
       {
@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1790968992146_0",
+      "id": "q_auto_1790984489699_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1790968992146_1",
+      "id": "q_auto_1790984489699_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -213,7 +213,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1790968992146_2",
+      "id": "q_auto_1790984489699_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
