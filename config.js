@@ -1,15 +1,15 @@
 const config = {
   "meta": {
-    "pageTitle": "Win a Capitol Hill Dinner for 2 at Spinasse, $500",
+    "pageTitle": "Capitol Hill Fall Night Out",
     "navBrandLogoText": "Brennen Clouse",
     "privacyPolicyLink": "https://docs.google.com/document/d/1NmwpgiFpgYdiVQ3VAe1-q0kgYTM3B_5TUUMzhZ45fN0/edit?usp=sharing"
   },
   "giveaway": {
-    "heroHeadline": "Win a <span class='highlight'>Candlelit Dinner for 2</span> at <span class='highlight'>Spinasse</span> in <span class='highlight'>Capitol Hill</span>!",
+    "heroHeadline": "Capitol Hill Fall<br><em>Night Out</em>",
     "heroSubheadline": "Cozy fall vibes. Handmade pasta. A perfect night out. $500 value. Enter by Oct 21. Winner drawn the same day.",
     "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/0qxxz6dx49rmy0d0z4dvz923v4.jpg",
-    "promotionDates": "Enter Oct 7, 2026 through Oct 21, 2026. Winner drawn Oct 21, 2026, Pacific Time.",
-    "endDate": "2026-10-22T06:59:00.000Z",
+    "promotionDates": "Enter Oct 7, 2026 through Oct 21, 2026 at 5 PM Pacific Time. Winner drawn Oct 21, 2026.",
+    "endDate": "2026-10-21T20:00:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
     "name": "Capitol Hill Fall Night Out",
@@ -28,16 +28,11 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FBBF24",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You are in the running!",
-    "mainMessage": "Your entry for the <strong>Capitol Hill Fall Night Out at Spinasse</strong> has been received. We will draw the winner on Oct 21, 2026 and contact them by email and text. Good luck!",
-    "socialPromptText": "Watch your inbox on Oct 21. For updates and local tips, follow @brenthebroker on Instagram and Facebook."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -68,21 +63,13 @@ const config = {
         "text": "Handmade Piedmontese pasta and fine dishes"
       },
       {
-        "icon": "fas fa-concierge-bell",
-        "text": "Reservation help so your night is easy"
-      },
-      {
-        "icon": "fas fa-map-marked-alt",
-        "text": "Bonus: Capitol Hill fall date night guide (best walks and coffee)"
-      },
-      {
         "icon": "fas fa-bell",
         "text": "Prize must be claimed within 5 business days"
       }
     ],
     "name": "Capitol Hill Fall Night Out at Spinasse",
     "value": "$500 Value",
-    "description": "Picture this: crisp fall air. Warm candlelight. Fresh handmade pasta. You and your guest relax, talk, and smile. No stress. No rush. Just an amazing meal at one of Seattle’s most loved spots. This is your dream date night in Capitol Hill.",
+    "description": "Picture this: crisp fall air. Warm candlelight. Fresh handmade pasta. You and your guest relax, talk, and smile. No stress. No rush. Just an amazing meal at one of Seattle's most loved spots. This is your dream date night on Capitol Hill.",
     "limitedTimeOfferText": "Fall Giveaway, Ends Oct 21!",
     "ctaButtonText": "I Want This Date Night!"
   },
@@ -95,7 +82,7 @@ const config = {
       },
       {
         "icon": "fas fa-question-circle",
-        "title": "Answer 4 Quick Questions",
+        "title": "Answer 3 Quick Questions",
         "description": "Tell us a bit about your home plans."
       },
       {
@@ -124,8 +111,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -133,7 +118,7 @@ const config = {
       },
       {
         "q": "When does it end?",
-        "a": "Entries close Oct 21, 2026 at 11:59 PM PT. We draw the same day."
+        "a": "Entries close Oct 21, 2026 at 5:00 PM PT. We draw the same day."
       },
       {
         "q": "How do I know if I win?",
@@ -141,11 +126,11 @@ const config = {
       },
       {
         "q": "Do I need to follow on social to win?",
-        "a": "No. Following helps you see updates, but it is not required."
+        "a": "Yes. Follow @brenthebroker on Instagram to enter."
       },
       {
         "q": "What is the prize?",
-        "a": "A dinner for two at Spinasse, up to $500 value, via gift card. We can help with a reservation."
+        "a": "A dinner for two at Spinasse, up to $500 value."
       },
       {
         "q": "Any strings?",
@@ -158,6 +143,8 @@ const config = {
       "Share with a friend who loves pasta and fall nights in Seattle",
       "Follow @brenthebroker for updates and local Seattle tips"
     ],
+    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We pick the winner at random. Every entry has the same chance. No tricks."
@@ -178,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1790968924436_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -200,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1790968924436_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -226,7 +213,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1790968924436_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -252,6 +239,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You are in the running!",
+    "mainMessage": "Your entry for the <strong>Capitol Hill Fall Night Out at Spinasse</strong> has been received. We will draw the winner on Oct 21, 2026 and contact them by email and text. Good luck!",
+    "socialPromptText": "Watch your inbox on Oct 21. For updates and local tips, follow @brenthebroker on Instagram and Facebook."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/brenthebroker/",
@@ -263,7 +262,7 @@ const config = {
       "phone": "206-899-9101",
       "email": "brennen@egreseattle.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Brennen Clouse at Real Broker LLC and is not sponsored by or affiliated with Spinasse, Instagram, or Facebook. No purchase necessary. Washington residents only. Must be 18+. One entry per person. Entries close Oct 21, 2026 at 11:59 PM PT. Winner selected at random on Oct 21, 2026. Odds depend on number of entries. Prize must be claimed within 5 business days. By entering, you agree to our Privacy Policy.",
+    "footerDisclaimer": "This giveaway is sponsored by Brennen Clouse at Real Broker LLC and is not sponsored by or affiliated with Spinasse, Instagram, or Facebook. No purchase necessary. Washington residents only. Must be 18+. One entry per person. Entries close Oct 21, 2026 at 5:00 PM PT. Winner selected at random on Oct 21, 2026. Odds depend on number of entries. Prize must be claimed within 5 business days. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1769272484683-Emeralg-Group-Logo_black.png",
     "secondaryLogoUrl": "https://onereal.widencollective.com/portals/tcbndxev/BrandElements#210f16ca-d1ce-429d-b6bb-b0207e9c992d",
     "secondaryLogoAlt": "Real Broker LLC Logo",
