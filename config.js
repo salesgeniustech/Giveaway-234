@@ -8,7 +8,7 @@ const config = {
     "heroHeadline": "Capitol Hill Fall<br><em>Night Out</em>",
     "heroSubheadline": "Cozy fall vibes. Handmade pasta. A perfect night out. $500 value. Enter by Oct 21. Winner drawn the same day.",
     "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/0qxxz6dx49rmy0d0z4dvz923v4.jpg",
-    "promotionDates": "Enter Oct 7, 2026 through Oct 21, 2026 at 5 PM Pacific Time. Winner drawn Oct 21, 2026.",
+    "promotionDates": "Enter Oct 7, 2026 through Oct 21, 2026 at 5 PM Pacific Time. Winner will be drawn Oct 21, 2026.",
     "endDate": "2026-10-21T20:00:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1790968949584_0",
+      "id": "q_auto_1790968992146_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1790968949584_1",
+      "id": "q_auto_1790968992146_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -213,7 +213,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1790968949584_2",
+      "id": "q_auto_1790968992146_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
