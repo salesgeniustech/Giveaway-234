@@ -49,7 +49,7 @@ const config = {
         "alt": "Cozy fall evening scene in Seattle’s Capitol Hill"
       },
       {
-        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/tr9dfmbz49rmr0d0z4ea1xexj4.jpg",
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-a21710abe8e242db28341501a4c63f03.jpg",
         "alt": "Romantic dinner setting with warm light"
       }
     ],
@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1790984492628_0",
+      "id": "q_auto_1790984913659_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1790984492629_1",
+      "id": "q_auto_1790984913659_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -213,7 +213,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1790984492629_2",
+      "id": "q_auto_1790984913659_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
